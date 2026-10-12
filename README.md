@@ -2,6 +2,11 @@
 
 Caderno de poesias, poemas e líricas, com marcações de expressão vocal por letra ou sílaba. Aplicação estática em **Svelte 5 + Vite + TypeScript**, sem cadastro, backend ou envio dos textos a servidores.
 
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Eduard0-code/Liricista)
+[![Test and Deploy Pages](https://github.com/Eduard0-code/Liricista/actions/workflows/pages.yml/badge.svg)](https://github.com/Eduard0-code/Liricista/actions/workflows/pages.yml)
+
+Escreva letras, marque sílabas e registre indicações vocais. O projeto funciona direto no navegador, salva os rascunhos localmente e exporta para TXT, DOCX ou projeto completo.
+
 ## Executar
 
 Requer Node.js 24 LTS e npm. Execute os comandos na raiz deste repositório (a pasta que contém este README e `package.json`).
